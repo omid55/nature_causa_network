@@ -1,0 +1,55 @@
+
+TY  - JOUR
+AU  - Hill, Steven M
+AU  - Heiser, Laura M
+AU  - Cokelaer, Thomas
+AU  - Unger, Michael
+AU  - Nesser, Nicole K
+AU  - Carlin, Daniel E
+AU  - Zhang, Yang
+AU  - Sokolov, Artem
+AU  - Paull, Evan O
+AU  - Wong, Chris K
+AU  - Graim, Kiley
+AU  - Bivol, Adrian
+AU  - Wang, Haizhou
+AU  - Zhu, Fan
+AU  - Afsari, Bahman
+AU  - Danilova, Ludmila V
+AU  - Favorov, Alexander V
+AU  - Lee, Wai Shing
+AU  - Taylor, Dane
+AU  - Hu, Chenyue W
+AU  - Long, Byron L
+AU  - Noren, David P
+AU  - Bisberg, Alexander J
+AU  - The HPN-DREAM Consortium
+AU  - Mills, Gordon B
+AU  - Gray, Joe W
+AU  - Kellen, Michael
+AU  - Norman, Thea
+AU  - Friend, Stephen
+AU  - Qutub, Amina A
+AU  - Fertig, Elana J
+AU  - Guan, Yuanfang
+AU  - Song, Mingzhou
+AU  - Stuart, Joshua M
+AU  - Spellman, Paul T
+AU  - Koeppl, Heinz
+AU  - Stolovitzky, Gustavo
+AU  - Saez-Rodriguez, Julio
+AU  - Mukherjee, Sach
+TI  - Inferring causal molecular networks: empirical assessment through a community-based effort
+JA  - Nat Meth
+PY  - 2016/02/22/online
+VL  - advance online publication
+SP  - 
+EP  - 
+PB  - Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.
+SN  - 1548-7105
+UR  - http://dx.doi.org/10.1038/nmeth.3773
+L3  - 10.1038/nmeth.3773
+M3  - Analysis
+L3  - http://www.nature.com/nmeth/journal/vaop/ncurrent/abs/nmeth.3773.html#supplementary-information
+AB  - It remains unclear whether causal, rather than merely correlational, relationships in molecular networks can be inferred in complex biological settings. Here we describe the HPN-DREAM network inference challenge, which focused on learning causal influences in signaling networks. We used phosphoprotein data from cancer cell lines as well as in silico data from a nonlinear dynamical model. Using the phosphoprotein data, we scored more than 2,000 networks submitted by challenge participants. The networks spanned 32 biological contexts and were scored in terms of causal validity with respect to unseen interventional data. A number of approaches were effective, and incorporating known biology was generally advantageous. Additional sub-challenges considered time-course prediction and visualization. Our results suggest that learning causal relationships may be feasible in complex settings such as disease states. Furthermore, our scoring approach provides a practical way to empirically assess inferred molecular networks in a causal sense.
+ER  - 
